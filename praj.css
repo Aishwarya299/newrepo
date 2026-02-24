@@ -1,0 +1,31 @@
+/* This styles the whole page */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* This styles the main heading */
+h1 {
+    color: darkblue;
+}
+
+/* This styles paragraphs */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* This styles the button */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: darkblue;
+}
